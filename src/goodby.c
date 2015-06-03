@@ -4,6 +4,6 @@
 int
 main(int argc, char **argv)
 {
-    printf("Good-bye.\n");
+    printf("Later gator.\n");
     return 0;
 }
